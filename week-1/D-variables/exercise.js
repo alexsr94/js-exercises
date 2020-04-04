@@ -1,3 +1,3 @@
 // Start by creating a variable `greeting`
-
-console.log(greeting);
+let greetings = "Hola mundo";
+console.log(greetings);
